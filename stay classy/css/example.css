@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.page {
+border: 1px solid #FF0558;
+background-color: #000C8C;
+padding: inherit;
+}
